@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Learn Filipino</string>
+
+    <!-- Category name for the vocabulary words for animals [CHAR LIMIT=20] -->
+    <string name="category_animals">Animals</string>
+
+    <!-- Category name for the vocabulary words for colors [CHAR LIMIT=20] -->
+    <string name="category_colors">Colors</string>
+
+    <!-- Category name for the vocabulary words for days [CHAR LIMIT=20] -->
+    <string name="category_days">Days</string>
+
+    <!-- Category name for the vocabulary words for family [CHAR LIMIT=20] -->
+    <string name="category_people">People</string>
+
+    <!-- Category name for the vocabulary words for months [CHAR LIMIT=20] -->
+    <string name="category_months">Months</string>
+
+    <!-- Category name for the vocabulary words for numbers [CHAR LIMIT=20] -->
+    <string name="category_numbers">Numbers</string>
+
+    <!-- Category name for the vocabulary words for phrases [CHAR LIMIT=20] -->
+    <string name="category_phrases">Phrases</string>
+
+    <string name="content_desc">Icon</string>
+</resources>
